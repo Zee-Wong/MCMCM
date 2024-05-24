@@ -1,12 +1,13 @@
 % MCMCM ---- A Multi-Channel Modified Correlation Method
 % Version 1.0   
-% Last update: 2023.5.13 
+% Last update: 2024.5.24 
 % Developer: Ziyi Wang from Chongqing University, China
 % E-mail: wzycsust@163.com 
 % *** Please feel free to contact me if you have any problem ***
 % *** Question, Bug Report, Discussion, Suggestion are all welcome ***
 % *** Below paper should be cited if MCMCM is utilized in your work ***
-% *** 
+% *** Wang, Ziyi, et al. "A general method for trace substance detection based on cross-correlation theory." Sensors and Actuators B: Chemical (2024): 135987.
+% *** https://doi.org/10.1016/j.snb.2024.135987
 % *** Your citiation really inspires me a lot !!! \(^o^)/ ***
 
 
